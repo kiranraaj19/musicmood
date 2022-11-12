@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+_pycache_/
+env/
+Include/
+lib/
+Scripts/
+.cache
+.cache-31r7q5st5vvuskd6prbvmipcmj64

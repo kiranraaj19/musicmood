@@ -1,0 +1,88 @@
+name,album,artist,id,release_date,popularity,danceability,energy,valence,loudness,kmeans
+An Audition,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,74hnCqoBekV3fj5ACDKNIP,2018-10-26,25,0.198,0.397,0.0395,-13.971,1
+Exit Music (For a Film),OK Computer,Radiohead,4Na0siMtWOW9pJoWJ1Ponv,1997-05-28,67,0.293,0.276,0.196,-11.353,1
+Exit Music (For a Film) - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,0s0lnAIcclHVjQ4fITlOoU,2017-06-23,50,0.355,0.296,0.205,-10.074,1
+Fake Plastic Trees,The Bends,Radiohead,045sp2JToyTaaKyXkGejPy,1995-03-28,70,0.454,0.229,0.134,-12.592,1
+Lucky,OK Computer,Radiohead,6n7GUf2h8D2Ad2wUy5s7nE,1997-05-28,57,0.206,0.4,0.196,-9.813,1
+Lucky - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,7DqQtB1w0fHeSwjwq3IYU1,2017-06-23,45,0.233,0.453,0.152,-9.31,1
+Man of War,OK Computer OKNOTOK 1997 2017,Radiohead,552BIJ9kKwwqiGf4YojYbL,2017-06-23,52,0.274,0.472,0.14,-7.614,1
+Morning Mr Magpie (Pearson Sound Scavenger RMX),TKOL RMX 1234567,Radiohead,7KKglMFf5KV0PIDSAOqfnH,2011-10-10,30,0.481,0.336,0.0901,-12.43,1
+No Surprises,OK Computer,Radiohead,1bSpwPhAxZwlR2enJJsv7U,1997-05-28,71,0.255,0.393,0.118,-10.654,1
+No Surprises - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,5O3FBCAj4Y3rvPXrEmlinc,2017-06-23,49,0.274,0.449,0.0797,-9.303,1
+Polyethylene (Parts 1 & 2) - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,0QHoKFOWwMSFxB4zc5HDzG,2017-06-23,43,0.22,0.499,0.209,-8.363,1
+Supercollider,Supercollider / The Butcher,Radiohead,72zeFQrDrM8rc73aJ7bJ62,2016-11-18,36,0.502,0.342,0.266,-16.705,1
+TKOL (Altrice Rmx),TKOL RMX 1234567,Radiohead,66Pyms4pYaHEcPHZ7DdMbE,2011-10-10,29,0.574,0.324,0.0382,-16.645,1
+The Tourist,OK Computer,Radiohead,75YUnz58ajMo2VIIuUFvOV,1997-05-28,53,0.241,0.295,0.0398,-8.571,1
+The Tourist - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,5R8pnOmAwKNh4KnvJW2paN,2017-06-23,44,0.248,0.328,0.0398,-7.477,1
+True Love Waits (Live In Oslo),I Might Be Wrong,Radiohead,6PbeGqzGdjookqESRgm1AS,2001,52,0.374,0.483,0.0639,-8.821,1
+Able-Bodied Seamen,The Master: Original Motion Picture Soundtrack,Jonny Greenwood,01zvmz5rdDupDHQ0ESuAtK,2012-09-10,23,0.556,0.269,0.241,-13.624,1
+All Eyes on You,Familial,Philip Selway,7IDrbwhj91Hd6Q0VolFYmb,2010-08-31,5,0.651,0.219,0.316,-16.501,1
+All in All,Running Blind,Philip Selway,15TvaBHy5JB7sNWx2T2Z2I,2011-07-25,2,0.612,0.277,0.233,-13.993,1
+Barbara Rose,Phantom Thread (Original Motion Picture Soundtrack),Jonny Greenwood,0d5gyNBH2OACCDqGSxu0Dr,2018-01-12,29,0.539,0.164,0.376,-16.621,1
+Brasil,Brasil,EOB,68C3GNBXigDseAAgLMitGM,2019-12-05,36,0.358,0.404,0.0798,-14.902,1
+Broken Promises,Familial,Philip Selway,4TVIJ1IPDmWCwcxHBH6Rc8,2010-08-30,8,0.44,0.154,0.24,-16.051,1
+By Some Miracle,Familial,Philip Selway,36Il4jy7AdVptgy3bpXF6L,2010-08-30,28,0.42,0.281,0.356,-13.989,1
+Clockwork Tin Soldiers,Bodysong. (Remastered),Jonny Greenwood,4QetbE27tHpZJlm7T1aJkb,2003,13,0.313,0.466,0.15,-13.694,1
+Days and Nights,Let Me Go OST,Philip Selway,6A2577W5vDw5QzazxoY4tb,2017-09-15,5,0.625,0.293,0.0796,-15.083,1
+Don't Go Now,Weatherhouse,Philip Selway,70L5fuyiBKaeXqz2U5cThE,2014-01-29,11,0.466,0.343,0.219,-9.952,1
+Don't Go Now (Elysian Quartet),Weatherhouse,Philip Selway,2poHov1URRfwaY3QNWAxVn,2014-10-06,23,0.444,0.352,0.209,-10.064,1
+Don't Look Down,Familial,Philip Selway,4YtgEndwQRQyhmW4oGxhaf,2010-08-30,7,0.368,0.293,0.194,-14.148,1
+Don't Sit Under the Apple Tree (with Anyone Else but Me) (feat. Madisen Beaty),The Master: Original Motion Picture Soundtrack,Jonny Greenwood,4Ps9BJFQfaVGXSEaf3MicZ,2012-09-10,18,0.562,0.0673,0.273,-22.471,1
+Drawn to the Light,Weatherhouse,Philip Selway,0UvmMGxOggpnjfSlb0YbRw,2014-01-29,0,0.478,0.42,0.137,-11.677,1
+Every Spit and Cough,Running Blind,Philip Selway,4AXn1BifBKdC1yedmAJGdC,2011-07-25,2,0.317,0.329,0.441,-11.376,1
+Falling,Familial,Philip Selway,39SheqV8APngFn6bDwl0Gh,2010-08-30,8,0.453,0.183,0.165,-15.287,1
+Iron Swallow,Bodysong. (Remastered),Jonny Greenwood,371udvSkYKcpe21308wEmX,2003,15,0.221,0.233,0.0808,-11.594,1
+Let Me Go,Let Me Go OST,Philip Selway,1DbFKhneu8xfI5wwr1N9rn,2017-09-15,9,0.246,0.295,0.124,-12.197,1
+Long Time Coming,Earth,EOB,1rLQ5csdpZJU01baSqP4uI,2020-04-17,36,0.388,0.392,0.362,-14.748,1
+"Mary, Mary So Contrary",Norwegian Wood OST,Jonny Greenwood,6sC8vGoPVzGroZF4hTi3rD,2011-01-28,0,0.256,0.444,0.25,-8.985,1
+Miles Away,Weatherhouse,Philip Selway,0QjJK7vCJeiZTzo5iOp8MV,2014-10-06,10,0.564,0.355,0.0301,-11.07,1
+No Other Love (feat. Jo Stafford),The Master: Original Motion Picture Soundtrack,Jonny Greenwood,1P5y5njqYWr5qXnvSTKTij,2012-09-10,37,0.418,0.0585,0.236,-15.772,1
+Oil,There Will Be Blood (Music from the Motion Picture),Jonny Greenwood,2AfRHkNaHtH6HvLy5GVxD5,2007-12-18,22,0.178,0.246,0.0334,-14.327,1
+Patron Saint,Familial,Philip Selway,2dS1x4rU5cQXa9PGcYRqYd,2010-08-30,9,0.563,0.231,0.302,-15.73,1
+Sail On,Earth,EOB,2f2YpU0kf9qbx7X4c2X2L8,2020-04-17,34,0.254,0.327,0.0667,-17.022,1
+Sandy's Necklace,You Were Never Really Here (Original Motion Picture Soundtrack),Jonny Greenwood,0ALbrndx47oHMD4U3OEiS2,2018-03-09,20,0.452,0.441,0.0473,-10.281,1
+"Sougen, Kaze, Zoukibayashi",Norwegian Wood OST,Jonny Greenwood,24WVRAzoX8ouWVighCD4hw,2011-01-28,13,0.229,0.151,0.0345,-26.405,1
+The Ties That Bind Us,Familial,Philip Selway,6tiD4hltMhMoS3JznXS863,2010-08-31,4,0.602,0.291,0.209,-13.221,1
+The Witching Hour,Familial,Philip Selway,11wNAKo3C9cXag13G9XhUN,2010-08-30,8,0.331,0.111,0.149,-17.263,1
+Three Miniatures From Water,Octatonic Volume 2,Jonny Greenwood,1Ycp1vB4QduvwaKRnDogUM,2019-09-24,15,0.167,0.126,0.0614,-20.542,1
+Wide Open,Let Me Go OST,Philip Selway,3k3OIHLBNefcM7GeyMUYla,2017-09-15,7,0.662,0.205,0.0647,-15.881,1
+4 Minute Warning,In Rainbows (Disk 2),Radiohead,1w8QCSDH4QobcQeT4uMKLm,2007-12-03,49,0.354,0.302,0.223,-13.078,1
+A Choir of One,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,4vDpCHuGRqj11E3u6vazVy,2018-10-26,27,0.185,0.112,0.0271,-22.154,1
+A Conversation With Just Your Eyes,Suspiria Unreleased Material,Thom Yorke,4vEHL1NERvbnSgqBOPEzdB,2019-02-22,15,0.17,0.195,0.0389,-13.211,1
+A Light Green,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,74oW97DE8fZLUXOQ6mLrSo,2018-10-26,30,0.254,0.218,0.0574,-20.186,1
+A Rat's Nest,Spitting Feathers,Thom Yorke,0cdjhwCqWF4wJLCckN2cFP,2006-08-21,27,0.352,0.395,0.111,-17.722,1
+A Reminder - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2WHsVjndiTbqMTWy1gfOnV,2017-06-23,41,0.306,0.5,0.139,-9.837,1
+A Soft Hand Across Your Face,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,22qaM4et9ap7V54egVGJTq,2018-10-26,27,0.159,0.173,0.0298,-13.821,1
+A Storm That Took Everything,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,2EEHigRs3tEf0Nkt0C8LTc,2018-10-26,35,0.119,0.491,0.0323,-9.855,1
+Belongings Thrown in a River,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,60itNhMpJ2LnTdr4QifYnm,2018-10-26,34,0.208,0.325,0.0365,-9.823,1
+Bullet Proof ... I Wish I Was,The Bends,Radiohead,7wB2VenWR6rchtLwawreIg,1995-03-28,53,0.448,0.359,0.0773,-13.559,1
+Codex,The King Of Limbs,Radiohead,4sLGaMl33I6mcsk7u4xHAU,2011-02-18,54,0.327,0.128,0.0648,-17.536,1
+Daily Battles,Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack),Thom Yorke,6xCBiZLbhAFAolDGkiinUF,2019-08-21,50,0.306,0.0849,0.11,-18.843,1
+"Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack),Thom Yorke,6c9Z0OpPG69o6ULaiYpMu2,2019-08-21,41,0.283,0.0623,0.186,-13.465,1
+Dawn Chorus,ANIMA,Thom Yorke,6Ype94Pq1fdg0zogE05AfQ,2019-06-27,52,0.261,0.174,0.0393,-16.161,1
+Daydreaming,Daydreaming,Radiohead,4wzidqkKngcrMqXzk6x7Qu,2016-05-06,40,0.299,0.263,0.113,-13.207,1
+Desert Island Disk,A Moon Shaped Pool,Radiohead,1kBGeOp1CDUHVdbK4ergqo,2016-05-08,51,0.561,0.282,0.158,-13.241,1
+Everything In Its Right Place,Kid A,Radiohead,5AiNZnMDCWwujIENPj9PV9,2000-10-01,62,0.293,0.462,0.0623,-11.412,1
+Faust Arp,In Rainbows,Radiohead,5SdmtFbNOD7Qej6jFCHkOM,2007-12-28,57,0.338,0.289,0.226,-13.479,1
+Give Up The Ghost,The King Of Limbs,Radiohead,4OrGm3fBdhlXuHtRBoLUMW,2011-02-18,47,0.26,0.264,0.159,-12.279,1
+Glass Eyes,A Moon Shaped Pool,Radiohead,0eZN5WsQfmNFICHuw59Zfz,2016-05-08,51,0.218,0.11,0.0616,-15.721,1
+Go Slowly,In Rainbows (Disk 2),Radiohead,4gq2bc2770XvbJdEtfUbmw,2007-12-03,49,0.43,0.393,0.0439,-8.556,1
+Harry Patch (In Memory Of),Harry Patch (In Memory Of),Radiohead,7yMPuOVQEqpl7h1AQq4f2i,2016-11-11,44,0.0637,0.204,0.0559,-15.124,1
+How I Made My Millions - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,6gXv8OCSgKr5ZoVYi7Q7GM,2017-06-23,46,0.251,0.243,0.247,-10.896,1
+How To Disappear Completely,Kid A,Radiohead,69pwmeyvQMuHMtkCmpEWhQ,2000-10-01,61,0.168,0.302,0.205,-11.645,1
+Hunting Bears,Amnesiac,Radiohead,2zYrFer4QGSQkk5aUawfHB,2001-03-12,48,0.302,0.265,0.0742,-12.203,1
+I Will,Hail To the Thief,Radiohead,28VoI90xDBoKe5sP3sP5jW,2003,47,0.254,0.133,0.169,-14.06,1
+Interference,Tomorrow's Modern Boxes,Thom Yorke,2R5o3CKGdTsycMykcUTfns,2014,38,0.349,0.0917,0.0384,-17.719,1
+Klemperer Walks,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,1Lf0TkErwusSrVQZ8hJedT,2018-10-26,33,0.213,0.358,0.0363,-10.157,1
+Life In a Glasshouse,Amnesiac,Radiohead,29yXMFKIrY1fFY4DYBVZCu,2001-03-12,49,0.168,0.397,0.0497,-7.619,1
+Like Spinning Plates (Live),I Might Be Wrong,Radiohead,2j2n2VGCMIyFaQ6ToEC0Cy,2001,41,0.277,0.384,0.0997,-9.853,1
+MK 1,In Rainbows (Disk 2),Radiohead,3gKuywOm38axM8sJGq6Laq,2007-12-03,41,0.156,0.0962,0.0389,-27.01,1
+MK 2,In Rainbows (Disk 2),Radiohead,2uYSbsxAMmK1awUl06T7ix,2007-12-03,39,0.257,0.263,0.039,-15.292,1
+Melatonin - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,0PXadTqt6pRNcXOEQgvPAK,2017-06-23,41,0.243,0.485,0.0528,-7.813,1
+Morning Bell/Amnesiac,Amnesiac,Radiohead,3jaA0iP323UuDVVDA9sfSl,2001-03-12,45,0.325,0.421,0.186,-6.23,1
+Motion Picture Soundtrack,Kid A,Radiohead,0COiZ7ncho2yi4HotbzgPv,2000-10-01,54,0.134,0.129,0.0435,-16.128,1
+Nude,In Rainbows,Radiohead,5k7VKj1Xwy5DjO4B0PdAOb,2007-12-28,65,0.537,0.342,0.156,-9.785,1
+Olga's Destruction - Volk tape,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,5fcHov0XeACU2e7tj2IFAV,2018-10-26,32,0.305,0.301,0.0363,-14.128,1
+Pink Section,Tomorrow's Modern Boxes,Thom Yorke,3mZKZA8kDYdTnFk7918fRQ,2014,32,0.153,0.322,0.148,-20.454,1
+Pyramid Song,Amnesiac,Radiohead,3A9vIxzGBjEfqmDK7H9exS,2001-03-12,61,0.127,0.335,0.0686,-8.298,1
+Sabbath Incantation,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,5bbnmcUHizE3TTyi1nMQ0u,2018-10-26,32,0.222,0.144,0.0359,-19.982,1
